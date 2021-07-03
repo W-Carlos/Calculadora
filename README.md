@@ -1,4 +1,6 @@
 # Calculadora
+
+## 💻 Projeto
 Esse projeto é uma calculadora simples, feita com HTML5, CSS3 e JAVASCRIPT. Nela você pode fazer as quatro principais operações matemáticas.
  
 ## 📷 Demo
